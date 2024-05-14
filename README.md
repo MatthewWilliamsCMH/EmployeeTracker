@@ -11,7 +11,7 @@ Working in a partially completed JS file and using provided HTML and CSS files, 
 Employee Tracker requires no installation.
 
 ## Usage
-You can see a screen shot of my portfolio page below. To link to my page, click [here](https://matthewwilliamscmh.github.io/EmployeeTracker).
+You can see a screen shot of Employee Tracker below. To link to my page, click [here](https://matthewwilliamscmh.github.io/EmployeeTracker).
 
 ![Employee Tracker landing page](./assets/employeetracker.jpg).
 
