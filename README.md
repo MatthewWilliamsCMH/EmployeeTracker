@@ -13,7 +13,7 @@ Employee Tracker requires no installation.
 ## Usage
 You can see a screen shot of Employee Tracker below. To link to my page, click [here](https://matthewwilliamscmh.github.io/EmployeeTracker).
 
-![Employee Tracker landing page](./assets/employeetracker.jpg).
+![Employee Tracker landing page](./Assets/employeetracker.jpg).
 
 Users click the "Add Employees" button and are prompted to provide a first name, a last name, and a salary. Users are then asked if they would like to add additional employees. If they do, the prompt sequence repeats. If they do not, a table of employees is generated, and the console logs the employee data, an average of their salaries, and the random winner of a drawing.
 
@@ -28,4 +28,4 @@ I did a lot of googling for how to execute the data-collection sequence for this
 
 ## License
 
-Employee Tracekr is licensed under the MIT License - see the LICENSE.md file for details.
+Employee Tracker is licensed under the MIT License - see the LICENSE.md file for details.
